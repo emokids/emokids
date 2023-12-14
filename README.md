@@ -10,11 +10,7 @@ https://skillicons.dev/icons?i=cs,cpp,py&perline=3
 # Status
 https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emokids&theme=tokyonight
 <p align="left">
-<img alt="Top Langs" height="150px" src="
-https://github-readme-stats.vercel.app/api/top-langs/?username=emokids&layout=compact&count_private=true&show_icons=true&theme=tokyonight
-" />
-<img alt="github stats" height="150px" src="
-https://github-readme-stats.vercel.app/api?username=emokids&count_private=true&show_icons=true&show_icons=true&theme=tokyonight
-" />
+<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emokids&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+<img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=emokids&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 </p>
 https://github-profile-trophy.vercel.app/?username=emokids&theme=tokyonight&column=8
